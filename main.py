@@ -16,4 +16,4 @@ monthConversions = {
 # Dictionary created with a key and value for each month
 
 print(monthConversions.get("Ran", "Not a valid Month"))
-# Finds the key and prints its value
+# Finds the key and prints its value & returns a string if not valid
